@@ -1,0 +1,46 @@
+{
+    "goodsList": [
+        {
+            "goodsId": "0001",
+            "goodsName": "荣耀10",
+            "goodsBrief": "最高优惠400+赠377元礼包",
+            "goodsImg": "https://res0.vmallres.com/pimages//frontLocation/content/4520161/1539566459947.png",
+            "goodsPrice": "2299"
+        },
+        {
+            "goodsId": "0003",
+            "goodsName": "荣耀V10",
+            "goodsBrief": "最高优惠900 赠豪华礼包",
+            "goodsImg": "https://res0.vmallres.com/pimages//frontLocation/content/1268791/1539657732130.png",
+            "goodsPrice": "2099"
+        },
+        {
+            "goodsId": "0006",
+            "goodsName": "华为儿童手表 3 Pro",
+            "goodsBrief": "4G全网通 高清拍照",
+            "goodsImg": "https://res0.vmallres.com/pimages//frontLocation/content/5490164/1540538218158.png",
+            "goodsPrice": "999"
+        },
+        {
+            "goodsId": "0007",
+            "goodsName": "荣耀路由 X2",
+            "goodsBrief": "新品首发赠礼品",
+            "goodsImg": "https://res0.vmallres.com/pimages//product/6901443258871/428_428_1539912533064mp.png",
+            "goodsPrice": "149"
+        },
+        {
+            "goodsId": "0009",
+            "goodsName": "华为平板 M5 青春版",
+            "goodsBrief": "定金9元抵159元",
+            "goodsImg": "https://res0.vmallres.com/pimages//frontLocation/content/5583542/1540623612925.png",
+            "goodsPrice": "1899"
+        },
+        {
+            "goodsId": "0010",
+            "goodsName": "荣耀平板5",
+            "goodsBrief": "最高直降100元",
+            "goodsImg": "https://res0.vmallres.com/pimages//product/6901443265206/428_428_1539243364035mp.png",
+            "goodsPrice": "1299"
+        }
+    ]
+}

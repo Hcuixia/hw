@@ -1,0 +1,404 @@
+{
+    "goodsDetailList": [
+        {
+            "goodsId": "0001",
+            "goodsName": "荣耀10",
+            "goodsBrief": "搭载了玩游戏超给力的高通骁龙处理器，后置12MP旗舰相机，前置柔光自拍，配备5.7英寸全面屏。",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443232413/group//428_428_1535358152514.jpg",
+                "https://res.vmallres.com/pimages//product/6901443232413/group//428_428_1535358145378.jpg",
+                "https://res.vmallres.com/pimages//product/6901443232413/group//428_428_1535358149095.jpg",
+                "https://res.vmallres.com/pimages//product/6901443232413//428_428_1535358175728mp.jpg"
+            ],
+            "goodsPrice": "2299",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810312217163834806.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/20/201807201627232969869.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/16/201807161542205807957.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/18/201805181720324831482.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/20180815091701105769.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150917039045972.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150917007835859.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150917198107433.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150917235625318.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150917251245625.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/28/201804281748231042840.jpg",
+                "https://res.vmallres.com/pimages/temp/product/201702281003015599706.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg"
+            ]
+        },
+        {
+            "goodsId": "0002",
+            "goodsName": "HUAWEI P20",
+            "goodsBrief": "骁龙636 八核处理器 / 1.4μm大像素 AI 双摄 / 1300万柔光自拍 / 最高可选6GB大内存 / 4000mAh 大电量 / 5.99\" 18:9 全面屏 / 人脸解锁",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443237784/group//428_428_1525340798110.jpg",
+                "https://res.vmallres.com/pimages//product/6901443237784//428_428_1525340794041mp.jpg",
+                "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/ec6e58f0050363d731228f7b004207d5.jpg",
+                "https://res.vmallres.com/pimages//product/6901443237784/group//428_428_1525340798109.jpg",
+                "https://res.vmallres.com/pimages//product/6901443237784/group//428_428_1525340798114.jpg"
+            ],
+            "goodsPrice": "3388",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810311140358590912.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/20/201805201501378935756.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/02/201804021628476781548.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/04/20180704151650867771.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/04/20180704151650319642.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/04/201807041516501672874.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/04/201807041516512983116.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/04/201807041516513830153.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/07/04/201807041516542527701.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/20/201807201518361310557.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/04/20180704151655216256.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/07/04/201807041516551708701.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg"
+            ]
+        },
+        {
+            "goodsId": "0003",
+            "goodsName": "荣耀V10",
+            "goodsBrief": "光学变焦双摄，拍人更美 / 5.5''大屏轻薄全金属 / 骁龙八核处理器 / 4GB大内存",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443210220/group//428_428_1511858758798.jpg",
+                "https://res.vmallres.com/pimages//product/6901443210220//428_428_1511858765170mp.jpg",
+                "https://res.vmallres.com/pimages//product/6901443210220/group//428_428_1511858754145.jpg",
+                "https://res.vmallres.com/pimages//product/6901443210220/group//428_428_1511858758058.jpg"
+            ],
+            "goodsPrice": "2099",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810312230277437739.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/01/16/201801161600151084094.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/01/14/201801140831556237130.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936207601223.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936152660256.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936153017545.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936297557480.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/20180815093629995501.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936349418277.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936357027569.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936348230378.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936401714309.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/15/201808150936413179023.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg"
+            ]
+        },
+        {
+            "goodsId": "0004",
+            "goodsName": "华为畅享9 Plus",
+            "goodsBrief": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5\"护眼屏 / 超轻四曲面，7系铝金属边框。",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443263646/group//428_428_1538100747394.jpg",
+                "https://res.vmallres.com/pimages//product/6901443263646//428_428_1538100745639mp.jpg",
+                "https://res.vmallres.com/pimages//product/6901443263646/group//428_428_1538100747395.jpg",
+                "https://res.vmallres.com/pimages//product/6901443263646//428_428_1538100745639mp.jpg"
+            ],
+            "goodsPrice": "1699",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810311140358590912.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810151546023733860.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810151545596692129.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958141939756.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958141818472.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958143697558.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/20181015095815036436.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958159284039.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958163527252.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958164108526.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958164234944.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg"
+            ]
+        },
+        {
+            "goodsId": "0005",
+            "goodsName": "华为畅享8",
+            "goodsBrief": "全面屏2.0，5.99\"大屏 / 骁龙835旗舰处理器 / 4轴光学防抖 / 6模43频，全球频段",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443218646/group//428_428_1521286311516.jpg",
+                "https://res.vmallres.com/pimages//product/6901443218646//428_428_1521286318964mp.jpg",
+                "https://res.vmallres.com/pimages//product/6901443218646/group//428_428_1521286310484.jpg",
+                "https://res.vmallres.com/pimages//product/6901443218646/group//428_428_1521286309908.jpg",
+                "https://res.vmallres.com/pimages//product/6901443218646/group//428_428_1521286311147.jpg"
+            ],
+            "goodsPrice": "1299",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810311140358590912.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810311140358590912.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813155956845.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813153110830.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813153190457.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813155956845.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813153110830.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941525806260.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941527741058.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/20180403094153370327.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941531223758.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941534166449.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941535761244.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg"
+            ]
+        },
+        {
+            "goodsId": "0006",
+            "goodsName": "华为儿童手表 3 Pro",
+            "goodsBrief": "年轻人的酷玩具 / 骑行遥控两种玩法 / 22公里超长续航  / 轻、小、便携 / 重心驱动 / 15重安全保障",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443254323/group//428_428_1537845389912.jpg",
+                "https://res.vmallres.com/pimages//product/2901010003801//428_428_1540802092955mp.png",
+                "https://res.vmallres.com/pimages//product/6901443254323/group//428_428_1537845387543.jpg",
+                "https://res.vmallres.com/pimages//product/6901443254323/group//428_428_1537845379487.jpg"
+            ],
+            "goodsPrice": "999",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/12/201810121043593270114.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/12/201810121043593696925.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/12/201810121043593678097.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/12/201810121043595487485.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/12/201810121043597804925.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/12/20181012104400778369.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/12/20181012104400298368.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/12/201810121044002607964.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/26/201810260912579626650.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/26/20181026091258381443.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg"
+            ]
+        },
+        {
+            "goodsId": "0007",
+            "goodsName": "荣耀路由 X2",
+            "goodsBrief": "双核双千兆，双信号放大器，双频优选，双网双通，信号更好，覆盖更强！",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443258871/group//428_428_1539912441986.png",
+                "https://res.vmallres.com/pimages//product/6901443258871/group//428_428_1539912429148.png",
+                "https://res.vmallres.com/pimages//product/6901443258871/group//428_428_1539912445745.png",
+                "https://res.vmallres.com/pimages//product/6901443258871/group//428_428_1539912429148.png"
+            ],
+            "goodsPrice": "149",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/11/01/201811011014401147390.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/30/201810301756062524283.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181131421950738.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181131422654210.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181131439490350.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181131457202354.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181131467693704.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181131468083785.jpg"
+            ],
+            "insuranceImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181131477358863.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181131477677485.jpg"
+            ]
+        },
+        {
+            "goodsId": "0008",
+            "goodsName": "荣耀手环4",
+            "goodsBrief": "AMOLED触控大彩屏，50米防水，泳姿识别，实时心率检测，科学睡眠。",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443262472/group//428_428_1536150656382.jpg",
+                "https://res.vmallres.com/pimages//product/6901443262472/group//428_428_1536150659936.jpg",
+                "https://res.vmallres.com/pimages//product/6901443262472//428_428_1540628828647mp.png"
+            ],
+            "goodsPrice": "199",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527012330894.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527013190587.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527013462950.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527016773341.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527016697538.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527019207445.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527025609954.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527025539775.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527024931326.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527028516192.jpg"
+            ],
+            "insuranceImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527028415018.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/11/201810111527029083373.jpg"
+            ]
+        },
+        {
+            "goodsId": "0009",
+            "goodsName": "华为平板 M5 青春版",
+            "goodsBrief": "智能声控 大屏娱乐 哈曼卡顿调音",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443268023/group//428_428_1539856413743.png",
+                "https://res.vmallres.com/pimages//product/2701010008503//428_428_1540546716433mp.png",
+                "https://res.vmallres.com/pimages//product/6901443268023/group//428_428_1539856401794.png",
+                "https://res.vmallres.com/pimages//product/6901443268023/group//428_428_1539856413743.png"
+            ],
+            "goodsPrice": "1899",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/26/20181026175927506236.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/26/201810261759345783501.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151238113280.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151238904193.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151239168169.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151246421349.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151246419495.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151248220269.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151248375682.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151248540981.jpg"
+            ],
+            "insuranceImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151255464443.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181151253662008.jpg"
+            ]
+        },
+        {
+            "goodsId": "0010",
+            "goodsName": "荣耀平板5",
+            "goodsBrief": "10.1英寸大屏  轻薄金属机身",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443267514/group//428_428_1539854709250.png",
+                "https://res.vmallres.com/pimages//product/6901443267514/group//428_428_1539854724810.png",
+                "https://res.vmallres.com/pimages//product/2701010008402//428_428_1540546850028mp.png",
+                "https://res.vmallres.com/pimages//product/6901443267514/group//428_428_1539854721558.png",
+                "https://res.vmallres.com/pimages//product/6901443267514/group//428_428_1539854724810.png"
+            ],
+            "goodsPrice": "1299",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/26/201810261757278398734.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/30/201810301547561804507.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140407552924.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140408569664.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140409452026.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140441190327.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140452740006.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140458124944.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140457815387.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140458713262.jpg"
+            ],
+            "insuranceImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140459486030.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/18/201810181140461689478.jpg"
+            ]
+        },
+        {
+            "goodsId": "0011",
+            "goodsName": "华为畅享平板",
+            "goodsBrief": "5.99英寸全面屏，后置1300万高清双摄",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443218646/group//428_428_1521286311516.jpg",
+                "https://res.vmallres.com/pimages//product/6901443218646//428_428_1521286318964mp.jpg",
+                "https://res.vmallres.com/pimages//product/6901443218646/group//428_428_1521286310484.jpg",
+                "https://res.vmallres.com/pimages//product/6901443218646/group//428_428_1521286309908.jpg",
+                "https://res.vmallres.com/pimages//product/6901443218646/group//428_428_1521286311147.jpg"
+            ],
+            "goodsPrice": "1299",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810311140358590912.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/02/201808021030559241436.png",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813155956845.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813153110830.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813153190457.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/11/201805111813155956845.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941531223758.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941534166449.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941535761244.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941534645032.jpg"
+            ],
+            "insuranceImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941536447185.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/03/201804030941537383060.jpg"
+            ]
+        },
+        {
+            "goodsId": "0012",
+            "goodsName": "HUAWEI P20 Pro",
+            "goodsBrief": "全面屏 / 4000mAh大电量 / 前置柔光自拍 / 14nm骁龙八核处理器",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443256068/group//428_428_1534836319865.jpg",
+                "https://res.vmallres.com/pimages//product/6901443256068//428_428_1534836326627mp.jpg",
+                "https://res.vmallres.com/pimages//product/6901443256068/group//428_428_1534836304581.jpg",
+                "https://res.vmallres.com/pimages//product/6901443256068/group//428_428_1534836308502.jpg"
+            ],
+            "goodsPrice": "4988",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810311140358590912.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/05/20/201805201501378935756.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/04/02/201804021628476781548.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/28/201808281654569519019.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/28/201808281654534257283.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/28/201808281654563315242.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/08/28/201808281655277831405.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/28/201808281655279038645.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/28/20180828165528475232.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/08/28/201808281655285156539.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg"
+            ]
+        },
+        {
+            "goodsId": "0013",
+            "goodsName": "HUAWEI nova 2s",
+            "goodsBrief": "HUAWEI nova 2s 4GB+64GB 全网通版（银钻灰）",
+            "goodsBannerImg": [
+                "https://res.vmallres.com/pimages//product/6901443263752/group//428_428_1538100169870.jpg",
+                "https://res.vmallres.com/pimages//product/6901443263752//428_428_1538100198239mp.jpg",
+                "https://res.vmallres.com/pimages//product/6901443263752/group//428_428_1538100155656.jpg"
+            ],
+            "goodsPrice": "2399",
+            "goodsIntroImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/31/201810311140358590912.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810151546023733860.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810151545596692129.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958141939756.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958141818472.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958143697558.jpg"
+            ],
+            "goodsParamImg": [
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958163527252.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958164108526.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958168939596.jpg",
+                "https://res.vmallres.com/pimages/detailImg/2018/10/15/201810150958174168115.jpg"
+            ],
+            "insuranceImg": [
+                "https://i8.mifile.cn/v1/a1/fd83d023-0b76-b00c-353d-76fdb62d4d9f.jpg",
+                "https://i8.mifile.cn/v1/a1/490ab746-7186-98da-7d63-78c5e97eee97.jpg"
+            ]
+        }
+    ]
+}
